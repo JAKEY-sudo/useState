@@ -1,0 +1,14 @@
+.box {
+    width: 5px;
+    height: 375px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+
+.header {
+    display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 1rem;
+}
