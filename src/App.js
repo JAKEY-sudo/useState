@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./components/Header/Header";
+import ClickBtn from "./components/ClickBtn/ClickBtn";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         djkl;fghfgzsl;gklsdlkfnhlhn
       </p>
       <Header />
+      <ClickBtn />
 
     </div>
   );
